@@ -13,10 +13,19 @@ Bootstrap Aggregation or bagging involves taking multiple samples from your trai
 The final output prediction is averaged across the predictions of all of the sub-models.
 The three bagging models covered in this section are as follows:
 
-1.Bagged Decision Trees 
-2.Random Forest 
-3.Extra Trees 
+1.1. Bagged Decision Trees 
 
+1.2. Random Forest 
 
+1.3. Extra Trees 
+
+**2.Boosting Algorithms**
+Boosting ensemble algorithms creates a sequence of models that attempt to correct the mistakes of the models before them in the sequence.
+Once created, the models make predictions that may be weighted by their demonstrated accuracy and the results are combined to create a final output prediction.
+
+The two most common boosting ensemble machine learning algorithms are:
+
+2.1. AdaBoost
+2.2. Stochastic Gradient Boosting
 
 
