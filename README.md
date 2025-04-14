@@ -24,7 +24,6 @@ Boosting ensemble algorithms creates a sequence of models that attempt to correc
 Once created, the models make predictions that may be weighted by their demonstrated accuracy and the results are combined to create a final output prediction.
 
 The two most common boosting ensemble machine learning algorithms are:
-
 2.1. AdaBoost
 
 2.2. Stochastic Gradient Boosting
