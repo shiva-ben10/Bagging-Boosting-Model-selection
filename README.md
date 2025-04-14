@@ -29,4 +29,8 @@ The two most common boosting ensemble machine learning algorithms are:
 
 2.2. Stochastic Gradient Boosting
 
+**3. Voting Ensemble**
+Voting is one of the simplest ways of combining predictions from multiple machine learning algorithms.
 
+It works by first creating two or more standalone models from your training dataset. A Voting Classifier can then be used to wrap your models and average the predictions of the sub-models when asked to make predictions for new data.
+The predictions of the sub-models can be weighted, but specifying the weights for classifiers manually or even heuristically is difficult. More advanced methods can learn how to best weight the predictions from submodels, but this is called stacking (stacked generalization) and is currently not provided in Scikit-learn.
