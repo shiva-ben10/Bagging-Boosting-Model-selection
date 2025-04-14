@@ -13,9 +13,9 @@ Bootstrap Aggregation or bagging involves taking multiple samples from your trai
 The final output prediction is averaged across the predictions of all of the sub-models.
 The three bagging models covered in this section are as follows:
 
-1.Bagged Decision Trees
-2.Random Forest
-3.Extra Trees
+1.Bagged Decision Trees 
+2.Random Forest 
+3.Extra Trees 
 
 
 
