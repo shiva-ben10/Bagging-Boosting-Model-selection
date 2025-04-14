@@ -26,6 +26,7 @@ Once created, the models make predictions that may be weighted by their demonstr
 The two most common boosting ensemble machine learning algorithms are:
 
 2.1. AdaBoost
+
 2.2. Stochastic Gradient Boosting
 
 
